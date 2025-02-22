@@ -22,3 +22,5 @@ $ git pull                                      ; be in the folder repository, t
 3) When you do a git push, git prompts you to enter the PAT and that's it bingo. You're authenticated.
 
 PS : PAT is sensitive and is not supposed to be shared with anyone
+
+git remote set-url origin https://<your-github-username>:<your-token>@github.com/prasad5083/shell-scripting1.git
