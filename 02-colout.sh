@@ -20,4 +20,4 @@
 #Light Cyan	96	106
 #White	97	107
 
-echo -e "\e [32m i am printing the green colour \e[0m"
+echo -e "\e[32m i am printing the green colour \e[0m"
