@@ -17,3 +17,9 @@
 ## ./scriptname
 
 echo welcome to the devops batch54
+
+# how to print the multipul lines 
+
+echo line 1
+echo line 2
+echo line 3
