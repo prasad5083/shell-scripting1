@@ -24,5 +24,5 @@ echo line 1
 echo line 2
 echo line 3
 
-echo line3\nline2\nline3
-echo line1\n\tline2
+echo -e "line3\nline2\nline3"
+echo -e "line1\n\tline2"
