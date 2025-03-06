@@ -21,3 +21,7 @@
 #White	97	107
 
 echo -e "\e[32m i am printing the green colour \e[0m"
+
+#printing backgroung colour
+
+echo -e "\e[43;32m i am printing the green colour \e[0m"
