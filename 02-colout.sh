@@ -27,4 +27,4 @@ echo -e "\e[32m i am printing the green colour \e[0m"
 echo -e "\e[43;32m i am printing the green colour \e[0m"
 
 echo -e "\e[94m i am printing blue colour \e[0m"
-ecjo -e "\e[44;96m i am print backgrounf as blue and foreground colour as light cyan \e[0m"
+echo -e "\e[44;96m i am print backgrounf as blue and foreground colour as light cyan \e[0m"
