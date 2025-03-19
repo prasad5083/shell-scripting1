@@ -26,5 +26,5 @@ echo line 3
 
 echo -e "line3\nline2\nline3"
 echo -e "line1\n\tline2"
-echo \nHi\nHow\nare\nyou\tdev
+echo -e Hi\nHow\nare\nyou\tdev
 
