@@ -17,6 +17,6 @@ echo value of the variable a is $a
 
 echo value of the variable b is ${b}
 
-echp "value of the variable c is $c"
+echo "value of the variable c is $c"
 
 echo -e "vale of the variable d is \e[32m $d \e[0m"
