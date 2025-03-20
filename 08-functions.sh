@@ -6,7 +6,8 @@ echo "i am ececuting the sample function"
 echo "sample function is executed" 
 
 echo "calling the status function"
-status   
+status  
+ 
 }
 # how to exute the sample function
 
