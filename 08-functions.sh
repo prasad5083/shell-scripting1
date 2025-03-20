@@ -7,7 +7,7 @@ echo "sample function is executed"
 
 echo "calling the status function"
 status  
- 
+
 }
 # how to exute the sample function
 
@@ -21,6 +21,7 @@ echo -e "good morning and todays date is \e[32;96m $todays_date \e[0m"
 
 number_of_session=$(who | wc -l)
 echo -e "number ofthe session are \e[32,93m $number_of_session \e[0m"
+echo -e "loade average of the system for last mintue is $(uptime | awk -F , '{print $3}' | awk -F : '{print $2}')"
 }
 #caliing the status
 status
