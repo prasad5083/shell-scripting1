@@ -5,4 +5,4 @@ todays_date=$(date +%D)
 echo -e "good morning and todays date is \e[32;96m $todays_date \e[0m"
 
 number_of_session=$(who | wc -l)
-echo -e "number ofthe session are \e[32,96m $number_of_session \e[0m"
+echo -e "number ofthe session are \e[32,93m $number_of_session \e[0m"
