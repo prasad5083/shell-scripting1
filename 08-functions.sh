@@ -3,7 +3,9 @@
 sample() {
 echo "i am the sample function"
 echo "i am ececuting the sample function"
-echo "sample function is executed"    
+echo "sample function is executed" 
+echo "calling the status function"
+status   
 }
 # how to exute the sample function
 
