@@ -1,7 +1,7 @@
 #!/bin/bash/
 
 Action=$1
-case $Action in
+case $Action in             #the value of action is taken from the first argumment 
    Start)
      echo -e "\e[32m  starting the service \e[0m"
      exit 0
