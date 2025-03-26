@@ -3,16 +3,16 @@
 Action=$1
 case $Action in
    Start)
-     echo " starting the service"
+     echo -e "\e[32m  starting the service \e[0m"
      ;;
    stop)
-     echo "stoping the service"
+     echo -e "\e[34m stoping the service \e[0m"
      ;;
    restart)
-     echo "restartinf\g the service"
+     echo -e  "\e[35m restartinf\g the service \e[0m"
      ;;
    *)
-     echo "possible valuse are only start or stop or restart"
+     echo -e "\e[36m possible valuse are only start or stop or restart \e[0m"
      ;;
 esac   
  
